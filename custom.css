@@ -1,0 +1,13 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+  }
+  h1,h2,h3,h4,h5{
+    font-family: 'Libre Baskerville', serif;
+  }
+  /* class montserrat */
+  p {
+      font-family: 'Montserrat', sans-serif;
+  }
+  .bskr{
+    font-family: 'Libre Baskerville', serif;
+  }
